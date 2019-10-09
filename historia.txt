@@ -5,5 +5,7 @@ con git add . añadimos los archivos
 despues con git status revisamos el estado
 mandamos el commit con git commit -m "    " 
 
-
 con git show vemos las actualizaciones
+
+Con git log vemos los commit echos
+Con git diff vemos las diferencias entre commit  
