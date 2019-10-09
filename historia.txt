@@ -1,2 +1,6 @@
 Recordando el uso de git!!! 
 es mejor volver a repasar que olvidarlo...
+Con init inciamos el repositario
+con git add . añadimos los archivos
+despues con git status revisamos el estado
+mandamos el commit con git commit -m "    " 
