@@ -16,3 +16,5 @@ y borra todo y el commit que pusimos ahora es la cabecera!!
 
 Actualizamos con una rama con git branch #nombredelarama# 
 con git status vemos en que rama nos encontramos
+
+Ahora vamos a unir las ramas que tenia cradas con git merge 
