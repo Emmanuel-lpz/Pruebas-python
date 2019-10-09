@@ -12,3 +12,7 @@ Con git diff vemos las diferencias entre commit
 
 git reset _____ponemos el comit____ y volvemos a ese commit -- hard  #este es un cambio duro
 y borra todo y el commit que pusimos ahora es la cabecera!! 
+
+
+Actualizamos con una rama con git branch #nombredelarama# 
+con git status vemos en que rama nos encontramos
