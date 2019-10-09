@@ -18,3 +18,13 @@ Actualizamos con una rama con git branch #nombredelarama#
 con git status vemos en que rama nos encontramos
 
 Ahora vamos a unir las ramas que tenia cradas con git merge 
+
+Traer repositorio en Git hub:
+
+git remote add origin ####direccion del repositorio###
+lo checamos:
+git remote -v  ###que sea verbal
+
+fetch #traer
+push # enviar
+
