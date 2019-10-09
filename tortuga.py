@@ -26,4 +26,15 @@ tortuga.left(90)
 tortuga.forward(50)
 tortuga.left(90)
 
+tortuga.left(40)
+
+tortuga.forward(50)
+tortuga.left(90)
+tortuga.forward(50)
+tortuga.left(90)
+tortuga.forward(50)
+tortuga.left(90)
+tortuga.forward(50)
+tortuga.left(90)
+
 window.mainlop()
