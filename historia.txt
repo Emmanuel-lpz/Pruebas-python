@@ -32,3 +32,7 @@ Para llevar cambios al servidor hay que hacer lo siguiente:
 
 primero hacemos git pull origin master para checar si noy cambios de lado del servidor
 despues hacemos git commit -am"  "  para guardar el cambio
+
+Despues hacemos git pull origin master para ver si no sucedio algun cambio en el servidor,
+ya que actualizamos hacemos git push origin master para mandar los cambios al servidor
+
